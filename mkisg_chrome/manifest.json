@@ -3,7 +3,7 @@
     "name": "MKI Searching Game",
     "short_name": "Searching Game",
     "description": "Searching in 3D stages",
-    "version": "0.21",
+    "version": "0.22",
     "minimum_chrome_version": "38",
     "author": "Marcin Kik mki1967@gmail.com",
     "offline_enabled": true,
