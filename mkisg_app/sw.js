@@ -3,7 +3,7 @@
 */
 
 var appName = 'mkisg';
-var version = '0.24';
+var version = '0.25';
 var currentCacheName= appName+'_'+version;
 
 self.addEventListener('install', e => {
